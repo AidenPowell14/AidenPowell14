@@ -1,4 +1,4 @@
-Hi there 👋
+Hello!
 
 I'm Aiden, a second year Computer Engineering and Computer Science student at Northeastern University.
 I am interested in high-level program design, though my current coursework includes Advanced Computer Systems, 
